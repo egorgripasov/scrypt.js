@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "scryptsy": "^1.2.1",
-    "scrypt": "https://github.com/ashwinphatak/node-scrypt"
+    "scrypt": "https://github.com/egorgripasov/node-scrypt"
   },
   "browser": "js.js"
 }
